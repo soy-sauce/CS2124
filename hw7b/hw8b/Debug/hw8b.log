@@ -1,0 +1,8 @@
+﻿  Noble.cpp
+c:\users\cz152\documents\visual studio 2015\projects\hw7b\hw8b\noble.cpp(49): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  hw7.cpp
+  Protector.cpp
+  hw8b.vcxproj -> C:\Users\cz152\Documents\Visual Studio 2015\Projects\hw7b\Debug\hw8b.exe
+  hw8b.vcxproj -> C:\Users\cz152\Documents\Visual Studio 2015\Projects\hw7b\Debug\hw8b.pdb (Full PDB)
