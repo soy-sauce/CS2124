@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\cz152\documents\visual studio 2015\projects\rec12b\rec12b\source.cpp(306): warning C4018: '<': signed/unsigned mismatch
+c:\users\cz152\documents\visual studio 2015\projects\rec12b\rec12b\source.cpp(309): warning C4018: '<': signed/unsigned mismatch
+c:\users\cz152\documents\visual studio 2015\projects\rec12b\rec12b\source.cpp(311): warning C4018: '<': signed/unsigned mismatch
+c:\users\cz152\documents\visual studio 2015\projects\rec12b\rec12b\source.cpp(213): warning C4172: returning address of local variable or temporary
+c:\users\cz152\documents\visual studio 2015\projects\rec12b\rec12b\source.cpp(203): warning C4172: returning address of local variable or temporary
+  rec12b.vcxproj -> c:\users\cz152\documents\visual studio 2015\Projects\rec12b\Debug\rec12b.exe
+  rec12b.vcxproj -> c:\users\cz152\documents\visual studio 2015\Projects\rec12b\Debug\rec12b.pdb (Full PDB)
