@@ -1,0 +1,6 @@
+﻿  hw04.cpp
+c:\users\cz152\documents\visual studio 2015\projects\hw4b\hw4b\hw04.cpp(106): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+c:\users\cz152\documents\visual studio 2015\projects\hw4b\hw4b\hw04.cpp(192): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\cz152\documents\visual studio 2015\projects\hw4b\hw4b\hw04.cpp(215): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  hw4b.vcxproj -> C:\Users\cz152\Documents\Visual Studio 2015\Projects\hw4b\Debug\hw4b.exe
+  hw4b.vcxproj -> C:\Users\cz152\Documents\Visual Studio 2015\Projects\hw4b\Debug\hw4b.pdb (Full PDB)
